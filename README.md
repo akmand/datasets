@@ -1,5 +1,7 @@
 # datasets
-Script to prepare datasets for modeling:
+
+Automated script to prepare these datasets for predictive modeling:
+https://github.com/akmand/datasets/blob/main/prepare_dataset_for_modeling_github.py
 
 Assumptions:
 - First row is the header row.
