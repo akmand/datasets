@@ -2,6 +2,9 @@
 
 A collection of public datasets for machine learning research & teaching.
 
+Dataset descriptions:
+https://github.com/akmand/datasets/blob/main/github_dataset_descriptions.ipynb
+
 Automated script to prepare these datasets for predictive modeling:
 https://github.com/akmand/datasets/blob/main/prepare_dataset_for_modeling_github.py
 
